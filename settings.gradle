@@ -1,1 +1,1 @@
-include ':app', ':liatviewtest', ':recycleview', ':toolbar', ':fragmenttest', ':fragmentbestpractice'
+include ':app', ':liatviewtest', ':recycleview', ':toolbar', ':fragmenttest', ':fragmentbestpractice', ':fileoutputstream'
